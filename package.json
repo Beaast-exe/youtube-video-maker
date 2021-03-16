@@ -4,5 +4,8 @@
 	"main": "index.js",
 	"repository": "https://github.com/Beaast-exe/youtube-video-maker.git",
 	"author": "Beaast-exe <r.fariaa18@gmail.com>",
-	"license": "MIT"
+	"license": "MIT",
+	"dependencies": {
+		"readline-sync": "^1.4.10"
+	}
 }
